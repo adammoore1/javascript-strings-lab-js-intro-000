@@ -12,4 +12,3 @@ greeting='Hello, everybody!'
 greetSpecialGuest='Hello, Neil deGrasse Tyson!'
 greetSpecialGuest
 space="Let's talk about space"
-space
