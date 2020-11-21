@@ -9,5 +9,5 @@ var topic = "space";
 var conversation = `${topic}`;
 
 greeting='Hello, everybody!'
-greetSpecialGuest='Neil deGrasse Tyson'
-'Hello '+ greetSpecialGuest + '!'
+greetSpecialGuest='Hello, Neil deGrasse Tyson!'
+greetSpecialGuest
